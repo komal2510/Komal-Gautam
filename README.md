@@ -1,2 +1,3 @@
 # Komal-Gautam
-My repository
+My repository.
+I am working on github for the first time.
